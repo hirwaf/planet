@@ -1,4 +1,4 @@
-# planets
+# Planets
 
 Planet exploration
 
