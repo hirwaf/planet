@@ -1,6 +1,6 @@
 # Planets
 
-Planet exploration Demo
+Planet exploration demo app
 
 ## Getting Started
 
